@@ -3,17 +3,17 @@ research and develop platform nodejs
 
 # Structure project Middleware
 
---PROJECT-----------------
-  |--node_modules
-  |--utility
-     |--handle_error.js
-     |--handle_time.js
-  |--controller
-     |---user_controller
-  |--router
-     |--router.js
-     |--user_router.js
-  |--index.js
-  |--environment
+--PROJECT-----------------\n
+  |--node_modules         \n
+  |--utility              \n
+     |--handle_error.js   \n
+     |--handle_time.js    \n
+  |--controller           \n
+     |---user_controller  \n
+  |--router               \n
+     |--router.js         \n
+     |--user_router.js    \n
+  |--index.js             \n
+  |--environment          \n
   
 
