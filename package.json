@@ -1,0 +1,26 @@
+{
+  "name": "nodejs_lession1",
+  "version": "1.0.0",
+  "description": "init project and contructor structure + swagger",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/doducthanh95/Nodejs.git"
+  },
+  "author": "ddthanh",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/doducthanh95/Nodejs/issues"
+  },
+  "homepage": "https://github.com/doducthanh95/Nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
